@@ -1,0 +1,474 @@
+{
+  "zh": {
+    "nav": {
+      "global": "奢侈品",
+      "home": "首页",
+      "categories": "分类",
+      "notFoundCategories": "暂无分类数据",
+      "cart": "购物车",
+      "account": "我的",
+      "login": "登录",
+      "register": "注册",
+      "logout": "退出账号",
+      "categoriesList": {
+        "electronics": "包包",
+        "clothing": "服装",
+        "books": "鞋子",
+        "home": "化妆品"
+      },
+      "orders": "我的订单",
+      "username": "用户名",
+      "userDropdown": {
+        "profile": "个人中心",
+        "logout": "退出登录"
+      },
+      "my": "我的"
+    },
+    "auth": {
+      "login": "登录",
+      "register": "注册",
+      "username": "用户名",
+      "usernamePlaceholder": "请输入字母、数字组成的用户名",
+      "usernameTip": "用户名只能包含字母和数字",
+      "password": "密码",
+      "account": "账号",
+      "registerButton": "注册",
+      "loginButton": "登录",
+      "haveAccount": "已有账号",
+      "noAccount": "没有账号",
+      "registerSuccess": "注册成功",
+      "registerFailed": "注册失败",
+      "loginSuccess": "登录成功",
+      "loginFailed": "登录失败",
+      "loginError": {
+        "userNotFound": "账号不存在",
+        "invalidPassword": "密码错误",
+        "accountLocked": "账号已被锁定",
+        "accountDisabled": "账号已被禁用",
+        "unauthorized": "未授权访问",
+        "tooManyAttempts": "登录尝试次数过多，请稍后再试",
+        "serverError": "服务器错误，请稍后再试",
+        "default": "登录失败，请重试"
+      }
+    },
+    "hero": {
+      "title": "发现奢侈品好物",
+      "subtitle": "为你打造奢侈品专属选品，网罗全球顶尖好物，严苛品控保障，臻享奢华性价比 。",
+      "explore": "立即探索"
+    },
+    "categories": {
+      "title": "商品分类",
+      "beauty": "高奢鞋子",
+      "fashion": "高奢衣服",
+      "electronics": "高奢包",
+      "electronicsDesc": "最新科技产品，品质保证",
+      "home": "家居生活",
+      "sports": "运动户外",
+      "baby": "母婴用品",
+      "food": "食品",
+      "foodDesc": "精选各类美食，品质保证",
+      "books": "图书文具",
+      "toys": "玩具",
+      "toysDesc": "精选益智玩具，寓教于乐",
+      "fashionDesc": "精选时尚服饰，品质保证"
+    },
+    "filters": {
+      "price": "价格",
+      "category": "分类",
+      "sort": "排序",
+      "all": "全部",
+      "popular": "按人气",
+      "priceAsc": "价格从低到高",
+      "priceDesc": "价格从高到低"
+    },
+    "products": {
+      "title": "热门商品",
+      "addToCart": "加入购物车",
+      "items": {
+        "1": {
+          "name": "时尚连衣裙"
+        },
+        "2": {
+          "name": "无线耳机"
+        },
+        "3": {
+          "name": "智能手表"
+        },
+        "4": {
+          "name": "护肤套装"
+        }
+      }
+    },
+    "cart": {
+      "title": "我的购物车",
+      "empty": "购物车是空的",
+      "clear": "清空购物车",
+      "remove": "移除",
+      "productInfo": "商品信息",
+      "unitPrice": "单价",
+      "quantity": "数量",
+      "subtotal": "小计",
+      "selectedItems": "已选商品",
+      "pieces": "件",
+      "total": "合计",
+      "checkout": "去结算",
+      "price": "价格",
+      "quantityUpdated": "商品数量更新成功",
+      "quantityUpdateFailed": "商品数量更新失败",
+      "itemRemoved": "商品移除成功",
+      "itemRemoveFailed": "商品移除失败"
+    },
+    "account": {
+      "title": "我的账户",
+      "orders": "我的订单",
+      "favorites": "我的收藏",
+      "Address": "收货地址",
+      "settings": "账户设置",
+      "profile": "个人资料",
+      "verification": "实名认证",
+      "username": "用户名",
+      "accountNumber": "账号",
+      "registerTime": "注册时间",
+      "addressManagement": "地址管理",
+      "addNewAddress": "添加新地址",
+      "edit": "编辑",
+      "delete": "删除",
+      "setAsDefault": "设为默认",
+      "editAddress": "编辑地址",
+      "recipientName": "收货人姓名",
+      "phoneNumber": "联系电话",
+      "detailedAddress": "详细地址",
+      "cancel": "取消",
+      "save": "保存",
+      "idNumber": "身份证号",
+      "RealName": "真实姓名",
+      "submitVerification": "提交认证",
+      "verificationCompleted": "已完成实名认证",
+      "orderNumber": "订单号",
+      "createTime": "创建时间",
+      "paymentMethod": "支付方式",
+      "totalAmount": "总金额",
+      "pay": "付款",
+      "confirmReceive": "确认收货",
+      "noOrders": "暂无订单",
+      "unitPrice": "单价",
+      "quantity": "数量",
+      "address": {
+        "saveSuccess": "保存地址成功",
+        "saveFailed": "保存地址失败",
+        "deleteSuccess": "删除地址成功",
+        "deleteFailed": "删除地址失败",
+        "setDefaultFailed": "设置默认地址失败"
+      },
+      "realName": {
+        "submitSuccess": "实名认证提交成功",
+        "submitFailed": "实名认证提交失败"
+      },
+      "order": {
+        "confirmReceiveSuccess": "确认收货成功",
+        "confirmReceiveFailed": "确认收货失败",
+        "paymentSuccess": "支付成功",
+        "paymentFailed": "支付失败"
+      }
+    },
+    "footer": {
+      "about": {
+        "title": "关于我们",
+        "description": "全球购物平台致力于为您提供优质的跨境购物体验"
+      },
+      "service": {
+        "title": "客户服务",
+        "help": "帮助中心",
+        "shipping": "配送说明",
+        "returns": "退换货政策",
+        "contact": "联系我们",
+        "dialog": {
+          "help": {
+            "title": "帮助中心",
+            "welcome": "欢迎来到GlobalShop帮助中心",
+            "items": [
+              "常见问题解答",
+              "购物指南",
+              "账户管理",
+              "支付方式"
+            ]
+          },
+          "shipping": {
+            "title": "配送说明",
+            "intro": "我们提供多种配送方式：",
+            "items": [
+              "标准配送(3-5个工作日)",
+              "快速配送(1-2个工作日)",
+              "同城当日达",
+              "海外配送"
+            ]
+          },
+          "returns": {
+            "title": "退换货政策",
+            "intro": "为保障您的权益，我们提供：",
+            "items": [
+              "7天无理由退换",
+              "15天质量问题退换",
+              "退货运费说明",
+              "退换货流程"
+            ]
+          },
+          "contact": {
+            "title": "联系我们",
+            "intro": "多种渠道联系客服：",
+            "items": [
+              "在线客服:24小时",
+              "客服电话:400-123-4567",
+              "邮箱:support@globalshop.com",
+              "微信公众号:GlobalShop"
+            ]
+          },
+          "close": "关闭"
+        }
+      },
+      "social": {
+        "title": "关注我们",
+        "wechat": "微信",
+        "weibo": "微博",
+        "qq": "QQ"
+      },
+      "copyright": "保留所有权利"
+    }
+  },
+  "en": {
+    "nav": {
+      "global": "Luxury",
+      "home": "Home",
+      "categories": "Categories",
+      "notFoundCategories": "No categories found",
+      "cart": "Cart",
+      "account": "Account",
+      "login": "Login",
+      "register": "Register",
+      "logout": "Logout",
+      "categoriesList": {
+        "electronics": "Electronics",
+        "clothing": "Clothing",
+        "books": "Books",
+        "home": "Home"
+      },
+      "orders": "My Orders",
+      "username": "Username",
+      "userDropdown": {
+        "profile": "Profile",
+        "logout": "Logout"
+      },
+      "my": "My"
+    },
+    "auth": {
+      "login": "Login",
+      "register": "Register",
+      "username": "Username",
+      "usernamePlaceholder": "Enter username (letters and numbers only)",
+      "usernameTip": "Username can only contain letters and numbers",
+      "password": "Password",
+      "account": "Account",
+      "registerButton": "Register",
+      "loginButton": "Login",
+      "haveAccount": "Already have an account",
+      "noAccount": "Don't have an account",
+      "registerSuccess": "Registration successful",
+      "registerFailed": "Registration failed",
+      "loginSuccess": "Login successful",
+      "loginFailed": "Login failed",
+      "loginError": {
+        "userNotFound": "Account does not exist",
+        "invalidPassword": "Incorrect password",
+        "accountLocked": "Account has been locked",
+        "accountDisabled": "Account has been disabled",
+        "unauthorized": "Unauthorized access",
+        "tooManyAttempts": "Too many login attempts, please try again later",
+        "serverError": "Server error, please try again later",
+        "default": "Login failed, please try again"
+      }
+    },
+    "hero": {
+      "title": "Discover Global Goods",
+      "subtitle": "Curated products from around the world, quality guaranteed, affordable prices",
+      "explore": "Explore Now"
+    },
+    "categories": {
+      "title": "Featured Categories",
+      "beauty": "Beauty & Skincare",
+      "fashion": "Fashion",
+      "electronics": "Electronics",
+      "electronicsDesc": "Latest technology products, quality guaranteed",
+      "home": "Home & Living",
+      "sports": "Sports & Outdoor",
+      "baby": "Baby & Kids",
+      "food": "Food & Beverages",
+      "foodDesc": "Curated food from around the world, quality guaranteed",
+      "books": "Books & Stationery",
+      "toys": "Toys",
+      "toysDesc": "Curated educational toys, fun and educational",
+      "fashionDesc": "Curated fashion clothing, quality guaranteed"
+    },
+    "filters": {
+      "price": "Price",
+      "category": "Category",
+      "sort": "Sort",
+      "all": "All",
+      "popular": "Popular",
+      "priceAsc": "Price: Low to High",
+      "priceDesc": "Price: High to Low"
+    },
+    "products": {
+      "title": "Featured Products",
+      "addToCart": "Add to Cart",
+      "items": {
+        "1": {
+          "name": "Fashion Dress"
+        },
+        "2": {
+          "name": "Wireless Earbuds"
+        },
+        "3": {
+          "name": "Smart Watch"
+        },
+        "4": {
+          "name": "Skincare Set"
+        }
+      }
+    },
+    "cart": {
+      "title": "My Shopping Cart",
+      "empty": "Your cart is empty",
+      "clear": "Clear Cart",
+      "remove": "Remove",
+      "productInfo": "Product Information",
+      "unitPrice": "Unit Price",
+      "quantity": "Quantity",
+      "subtotal": "Subtotal",
+      "selectedItems": "Selected Items",
+      "pieces": "pieces",
+      "total": "Total",
+      "checkout": "Checkout",
+      "price": "Price",
+      "quantityUpdated": "Quantity updated successfully",
+      "quantityUpdateFailed": "Quantity update failed",
+      "itemRemoved": "Item removed successfully",
+      "itemRemoveFailed": "Item removal failed"
+    },
+    "account": {
+      "title": "My Account",
+      "orders": "My Orders",
+      "favorites": "My Favorites",
+      "Address": "Shipping Address",
+      "settings": "Account Settings",
+      "profile": "Profile",
+      "verification": "Identity Verification",
+      "username": "Username",
+      "accountNumber": "Account Number",
+      "registerTime": "Registration Time",
+      "addressManagement": "Address Management",
+      "addNewAddress": "Add New Address",
+      "edit": "Edit",
+      "delete": "Delete",
+      "setAsDefault": "Set as Default",
+      "editAddress": "Edit Address",
+      "recipientName": "Recipient Name",
+      "phoneNumber": "Phone Number",
+      "detailedAddress": "Detailed Address",
+      "cancel": "Cancel",
+      "save": "Save",
+      "idNumber": "ID Number",
+      "RealName": "Real Name",
+      "submitVerification": "Submit Verification",
+      "verificationCompleted": "Verification Completed",
+      "orderNumber": "Order Number",
+      "createTime": "Create Time",
+      "unitPrice": "Unit Price",
+      "quantity": "Quantity",
+      "paymentMethod": "Payment Method",
+      "totalAmount": "Total Amount",
+      "pay": "Pay",
+      "confirmReceive": "Confirm Receipt",
+      "noOrders": "No orders yet",
+      "address": {
+        "saveSuccess": "Address saved successfully",
+        "saveFailed": "Failed to save address",
+        "deleteSuccess": "Address deleted successfully",
+        "deleteFailed": "Failed to delete address",
+        "setDefaultFailed": "Failed to set default address"
+      },
+      "realName": {
+        "submitSuccess": "Real name verification submitted successfully",
+        "submitFailed": "Failed to submit real name verification"
+      },
+      "order": {
+        "confirmReceiveSuccess": "Order received successfully",
+        "confirmReceiveFailed": "Failed to confirm receipt",
+        "paymentSuccess": "Payment successful",
+        "paymentFailed": "Payment failed"
+      }
+    },
+    "footer": {
+      "about": {
+        "title": "About Us",
+        "description": "Global shopping platform dedicated to providing you with quality cross-border shopping experience"
+      },
+      "service": {
+        "title": "Customer Service",
+        "help": "Help Center",
+        "shipping": "Shipping Info",
+        "returns": "Returns Policy",
+        "contact": "Contact Us",
+        "dialog": {
+          "help": {
+            "title": "Help Center",
+            "welcome": "Welcome to GlobalShop Help Center!",
+            "items": [
+              "FAQ",
+              "Shopping Guide",
+              "Account Management",
+              "Payment Methods"
+            ]
+          },
+          "shipping": {
+            "title": "Shipping Information",
+            "intro": "We offer multiple shipping options:",
+            "items": [
+              "Standard Shipping (3-5 business days)",
+              "Express Shipping (1-2 business days)",
+              "Same-day Local Delivery",
+              "International Shipping"
+            ]
+          },
+          "returns": {
+            "title": "Returns Policy",
+            "intro": "To protect your rights, we offer:",
+            "items": [
+              "7-day No-questions-asked Returns",
+              "15-day Quality Issue Returns",
+              "Return Shipping Details",
+              "Returns Process"
+            ]
+          },
+          "contact": {
+            "title": "Contact Us",
+            "intro": "Multiple ways to reach our customer service:",
+            "items": [
+              "Online Support: 24/7",
+              "Customer Service: 400-123-4567",
+              "Email: support@globalshop.com",
+              "WeChat Official Account: GlobalShop"
+            ]
+          },
+          "close": "Close"
+        }
+      },
+      "social": {
+        "title": "Follow Us",
+        "wechat": "WeChat",
+        "weibo": "Weibo",
+        "qq": "QQ"
+      },
+      "copyright": "All rights reserved"
+    }
+  }
+}
