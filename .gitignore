@@ -1,1 +1,8 @@
+# 忽略Node.js依赖文件夹
+node_modules/
 
+# 忽略npm锁文件（若需锁定依赖版本，可删除这行）
+package-lock.json
+
+# 忽略VS Code的配置文件夹（若需共享IDE配置，可删除这行）
+.vscode/
